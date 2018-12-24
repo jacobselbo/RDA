@@ -1,4 +1,4 @@
-[discord-invite]: https://discord.gg/StcCeKt
+[discord-invite]: https://discord.gg/mrVC9dr
 [license]: https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg
 [ ![license][] ](https://github.com/DV8FromTheWorld/JDA/tree/master/LICENSE)
 [ ![Discord](https://discordapp.com/api/guilds/526532172501221396/widget.png) ][discord-invite]
