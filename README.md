@@ -19,7 +19,10 @@ If you need a bot, use a bot account from the [Application Dashboard](https://di
 
 RDA is currently built on [RDP](https://github.com/froghopperjacob/RDP), a dependency manager for Roblox Lua. You are still able to download RDA from github but it is strongly disadvised.
 
-RDA Stable Version: [Github Release](https://github.com/froghopperjacob/RDA/releases) RDA Latest Version: [RDP Release](TODO)
+RDA Stable Version: [Github Release](https://github.com/froghopperjacob/RDA/releases)
+
+RDA Latest Version: [RDP Release](TODO)
+
 
 **Instructions**
 TODO
