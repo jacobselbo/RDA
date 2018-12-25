@@ -5,7 +5,7 @@
 
 # RDA ( Roblox Discord API )
 
-RDA is a Async Class based program that allows interaction with the Discord API. With a customized redirect proxy RDA can recieve websocket events and be below HTTP Ratelimit.
+RDA is a async Class based program that allows interaction with the Discord API. With a customized redirect proxy RDA can recieve websocket events and be below HTTP Ratelimit.
 
 ## UserBots and SelfBots
 
