@@ -1,6 +1,6 @@
 [discord-invite]: https://discord.gg/mrVC9dr
 [license]: https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg
-[ ![license][] ](https://github.com/DV8FromTheWorld/JDA/tree/master/LICENSE)
+[ ![license][] ](https://github.com/froghopperjacob/RDA/tree/master/LICENSE)
 [ ![Discord](https://discordapp.com/api/guilds/526532172501221396/widget.png) ][discord-invite]
 
 # RDA ( Roblox Discord API )
