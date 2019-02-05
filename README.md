@@ -1,11 +1,20 @@
-[discord-invite]: https://discord.gg/mrVC9dr
-[license]: https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg
-[ ![license][] ](https://github.com/froghopperjacob/RDA/tree/master/LICENSE)
-[ ![Discord](https://discordapp.com/api/guilds/526532172501221396/widget.png) ][discord-invite]
+<h1 align="center">Roblox Discord API</h1>
+<div align="center">
+	<a href="https://github.com/froghopperjacob/RDA/tree/master/LICENSE">
+		<img src="https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg?style=flat-square" alt="Lisence" />
+	</a>
+</div>
 
-# RDA ( Roblox Discord API )
+<div align="center">
+	RDA is a async Class based program that allows interaction with the Discord API. With a node application serversided uncondesing the requests we are allowed to be under the HTTP ratelimit and be realitivy fast.
+</div>
 
-RDA is a async Class based program that allows interaction with the Discord API. With a customized redirect proxy RDA can recieve websocket events and be below HTTP Ratelimit.
+<div align="center">
+	<b>⚠️ RDM should only be used for experimental projects until v1.0.0 ⚠️</b>
+	RDA will take a while to be developed due to having to create RDM first and some required librarys.
+</div>
+
+<div>&nbsp;</div>
 
 ## UserBots and SelfBots
 
@@ -13,19 +22,7 @@ Discord is currently prohibiting creation and usage of automated client accounts
 We do not support using Userbots and Selfbots for these reasons and support will not be added.
 If you need a bot, use a bot account from the [Application Dashboard](https://discordapp.com/developers/applications).
 
-[Read More](https://support.discordapp.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-)
-
-## Download ( Not finished )
-
-RDA is currently built on [RDM](https://github.com/froghopperjacob/RDM), a dependency manager for Roblox Lua. You are still able to download RDA from github but it is strongly disadvised.
-
-RDA Stable Version: [Github Release](https://github.com/froghopperjacob/RDA/releases)
-
-RDA Latest Version: [RDP Release](TODO)
-
-
-**Instructions**
-TODO
+[Read More](https://support.discordapp.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots)
 
 ## Related Projects
 
@@ -33,4 +30,3 @@ TODO
 - [discord.py](https://github.com/Rapptz/discord.py)
 
 **See also:** https://discordapp.com/developers/docs/topics/community-resources#libraries
-
