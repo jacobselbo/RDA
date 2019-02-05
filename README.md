@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-	<i>RDA will take a while to be developed due to having to create RDM first and some required librarys.</i>
+	<i>RDA will take a while to be developed due to having to create RDM first and some required libraries.</i>
 </div>
 
 <div>&nbsp;</div>
