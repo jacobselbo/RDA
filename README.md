@@ -11,7 +11,10 @@
 
 <div align="center">
 	<b>⚠️ RDM should only be used for experimental projects until v1.0.0 ⚠️</b>
-	RDA will take a while to be developed due to having to create RDM first and some required librarys.
+</div>
+
+<div align="center">
+	<i>RDA will take a while to be developed due to having to create RDM first and some required librarys.</i>
 </div>
 
 <div>&nbsp;</div>
